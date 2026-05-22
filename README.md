@@ -1,3 +1,4 @@
-# responsi
+# Responsi Praktikum Mobile IF-G
 
-A new Flutter project.
+Nama : Gilang ResMa
+NIM : 123230060
